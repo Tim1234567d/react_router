@@ -1,0 +1,15 @@
+li{
+    position: relative;
+    width: 150px;
+    height: 25px;
+    margin-top: 10px;
+}
+.active{
+    border: 1px solid green;
+    background-color: rgb(195, 255, 105);
+}
+.standart{
+    padding: 2px;
+    position: absolute;
+    width: 100%;
+}
